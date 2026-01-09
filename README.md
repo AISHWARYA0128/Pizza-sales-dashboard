@@ -52,27 +52,6 @@ The dataset is included in the repository for reference.
 - Interactive slicers for dynamic filtering
 - Clean and business-friendly visual layout
 ---
-## ▶️ How to View the Power BI Report
-1. Download the file **`PIZZA SALES REPORT.pbix`**
-2. Open it using **Power BI Desktop**
-3. Use slicers and visuals to explore the analysis
-
-> ⚠️ Note: GitHub does not support Power BI report rendering.  
-> The report is shared as a downloadable `.pbix` file.
->
-> ## 📁 Project Structure
-
-powerbi-pizza-sales-analysis
-│
-├── PIZZA SALES REPORT.pbix # Power BI dashboard file
-├── Dataset
-│ └── pizza_sales_data.xlsx # Source data
-├── Screenshots # Dashboard visuals
-│ ├── overview.png
-│ ├── sales_trends.png
-│ └── category_analysis.png
-└── README.md
-
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Sales Trends Analysis
@@ -86,7 +65,7 @@ powerbi-pizza-sales-analysis
 
 >
 ## 💼 Business Use Case
-This dashboard can help restaurant owners and managers to:
+This dashboard can help to:
 - Identify top-performing pizzas
 - Optimize menu offerings
 - Analyze customer ordering behavior
