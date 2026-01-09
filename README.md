@@ -7,7 +7,22 @@ The objective is to derive actionable business insights related to sales perform
  ## 🛠 Tools & Technologies Used
 - Power BI Desktop  
 - Excel(Data Source)  
-- DAX (Measures & Calculations)  
+- DAX (Measures & Calculations)
+
+- ## 🧮 SQL Analysis
+
+Along with Power BI, SQL was used to perform exploratory analysis and
+calculate KPIs such as total revenue, order trends, and top-performing pizzas.
+
+SQL queries used in this project are available here:
+📂 **SQL_Queries/pizza_sales_queries.sql**
+
+Key SQL analysis includes:
+- Revenue and order KPIs
+- Daily and monthly order trends
+- Sales contribution by category and size
+- Top and bottom performing pizzas
+
 
 ---
 
