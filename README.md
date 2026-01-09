@@ -6,7 +6,7 @@ The objective is to derive actionable business insights related to sales perform
 
  ## 🛠 Tools & Technologies Used
 - Power BI Desktop  
-- Sql (Data Source)  
+- Excel(Data Source)  
 - DAX (Measures & Calculations)  
 
 ---
