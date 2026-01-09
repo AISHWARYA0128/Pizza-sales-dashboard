@@ -15,7 +15,8 @@ Along with Power BI, SQL was used to perform exploratory analysis and
 calculate KPIs such as total revenue, order trends, and top-performing pizzas.
 
 SQL queries used in this project are available here:
-📂 C:\Users\AYUSH\Downloads\PIZZA SALES SQL QUERIES....docx
+
+
 
 Key SQL analysis includes:
 - Revenue and order KPIs
